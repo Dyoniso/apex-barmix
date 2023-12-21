@@ -1,6 +1,6 @@
 # Barmix - Gestão de Bebidas
 
-![image](https://github.com/Dyoniso/apex-barmix/assets/57969605/929b356f-99a8-4556-ba8a-02170c049fde)
+![BARMIX](https://github.com/Dyoniso/apex-barmix/assets/57969605/b7900f9f-4018-4674-8667-2f4e398b8bc1)
 
 Desenvolvido especialmente para distribuidoras de bebidas e bartenders especializados em drinks e coquetéis, esta solução oferece uma plataforma abrangente para otimizar as operações diárias, proporcionando máxima eficiência e precisão na gestão de recursos.
 
@@ -23,9 +23,9 @@ Desenvolvido especialmente para distribuidoras de bebidas e bartenders especiali
 
 Além disso, foi projetado funcionalidade para organizar diversas filiais em um único lugar.
 
-![image](https://github.com/Dyoniso/apex-barmix/assets/57969605/5a459054-82cb-4c39-95b6-eac163cbeb38)
-
 # Como instalar?
+
+![2 -Import-As-Zip](https://github.com/Dyoniso/apex-barmix/assets/57969605/1aa4dcf2-2bf3-4942-89f3-81b352ddf350)
 
 Primeiramente, é necessário dispor de uma estrutura que suporte a execução da plataforma Oracle APEX. Em seguida, faça o download do arquivo SQL disponível neste repositório, o qual deverá ser importado no Oracle APEX.
 
