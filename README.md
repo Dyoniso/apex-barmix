@@ -18,9 +18,6 @@ Desenvolvido especialmente para distribuidoras de bebidas e bartenders especiali
 4. Eficiência Operacional em Distribuição:
   * O Barmix facilita o gerenciamento de rotas de distribuição, otimizando processos logísticos e assegurando entregas pontuais.
 
-5. Controle de Lotes e Validades:
-  * Gerencia lotes de produtos de forma eficiente, alertando sobre datas de validade iminentes para evitar perdas e garantir a qualidade dos insumos.
-
 Além disso, foi projetado funcionalidade para organizar diversas filiais em um único lugar.
 
 # Como instalar?
