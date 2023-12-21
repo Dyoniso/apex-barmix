@@ -25,7 +25,7 @@ Além disso, foi projetado funcionalidade para organizar diversas filiais em um 
 
 # Como instalar?
 
-![2 -Import-As-Zip](https://github.com/Dyoniso/apex-barmix/assets/57969605/1aa4dcf2-2bf3-4942-89f3-81b352ddf350)
+![image](https://github.com/Dyoniso/apex-barmix/assets/57969605/d9c747cf-a3db-45af-a876-06537ba431de)
 
 Primeiramente, é necessário dispor de uma estrutura que suporte a execução da plataforma Oracle APEX. Em seguida, faça o download do arquivo SQL disponível neste repositório, o qual deverá ser importado no Oracle APEX.
 
